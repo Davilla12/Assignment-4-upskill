@@ -1,0 +1,49 @@
+.seconddiv {
+ text-align: center;
+ margin-right: 390px;
+ margin-left: 390px;
+}
+
+.thirddiv {
+  text-align: center;
+}
+.fourthdiv {
+
+  text-align: center;
+}
+
+.fifthdiv {
+text-align: center;
+margin-right: 305px;
+ margin-left: 305px;
+
+
+}
+
+.button1 {
+  text-align: center;
+  border: none;
+  color: white;
+  background-color: rgb(76, 218, 76);
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.button2 {
+text-align: center;
+ border-width: 1px rgb(178, 190, 181) ;
+  color:rgb(76, 218, 76);
+  background-color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+
+}
